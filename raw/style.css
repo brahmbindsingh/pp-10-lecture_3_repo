@@ -1,0 +1,11 @@
+/* external styling */
+
+/* selector */
+/* element selector*/
+body{
+    background-color:gray;
+}
+/* class selector */
+.heading{
+    color:white;
+}

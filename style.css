@@ -1,0 +1,39 @@
+/* basic setup */
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin:0;
+    padding: 0 3rem
+  }
+  
+  li{
+    list-style: none;
+  }
+  a{
+    text-decoration:none;
+  }
+/*  */
+h1{
+  font-weight: 400;
+}
+  header{
+     display: flex; 
+    /* verticllay align  */
+    align-items: center;
+    /* horizontally align */
+    justify-content: space-between; 
+    /* margin: 0 3rem; */
+  }
+  .description{
+    display: flex;
+  }
+  .nav_list{
+    display: flex;
+  }
+  /*  showcase class children image */
+  .showcase>img{
+height:90vh;
+  }
+
+
+  
+
