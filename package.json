@@ -1,11 +1,11 @@
 {
   "name": "pepwed",
   "version": "1.0.0",
-  "description": "",
   "main": "wcat.js",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.6",
-    "request": "^2.88.2"
+    "cheerio": "^1.0.0-rc.9",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/brahmbindsingh/pp-10-lecture_3_repo/issues"
   },
-  "homepage": "https://github.com/brahmbindsingh/pp-10-lecture_3_repo#readme"
+  "homepage": "https://github.com/brahmbindsingh/pp-10-lecture_3_repo#readme",
+  "description": ""
 }

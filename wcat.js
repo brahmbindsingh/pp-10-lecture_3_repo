@@ -62,7 +62,7 @@ if(isN==true){
         finalOption='-n';
     }
 }
-else if(isB=true){
+else if(isB==true){
     finalOption='-b';
 }
 
