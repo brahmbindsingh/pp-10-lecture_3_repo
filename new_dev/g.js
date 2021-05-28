@@ -64,4 +64,4 @@ function projectProcessor(projectUrl,topicName,ProjectName){
             let name = mt(issueAnchors[i]).text().trim();
         }
     });
-}
+}   
